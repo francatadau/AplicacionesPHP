@@ -1,8 +1,5 @@
 <?php
 
-echo "Prueba Entornos";
-
-
-
-
+$nombre="Fran";
+echo "Hola" .$nombre
 ?>
