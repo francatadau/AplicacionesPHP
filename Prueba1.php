@@ -1,6 +1,6 @@
 <?php
 
-echo "Prueba Entornos" Esto es una prueba;
+echo "Prueba Entornos";
 
 
 
